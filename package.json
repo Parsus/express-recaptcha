@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pdupavillon/express-recaptcha.git"
+    "url": "https://github.com/Parsus/express-recaptcha.git"
   },
   "keywords": [
     "express",
@@ -28,9 +28,9 @@
   "author": "Paul du Pavillon",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pdupavillon/express-recaptcha/issues"
+    "url": "https://github.com/Parsus/express-recaptcha/issues"
   },
-  "homepage": "https://github.com/pdupavillon/express-recaptcha",
+  "homepage": "https://github.com/Parsus/express-recaptcha",
   "devDependencies": {
     "@types/chai": "^4.1.7",
     "@types/express": "^4.16.0",
