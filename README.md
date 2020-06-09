@@ -1,5 +1,7 @@
 # express-recaptcha
 
+NOTE: This fork patches [express-recaptcha](https://github.com/pdupavillon/express-recaptcha) to add request error handling in v2
+
 [![NPM](https://nodei.co/npm/express-recaptcha.png?compact=true)](https://nodei.co/npm/express-recaptcha/)
 
 [![Build Status][ci-image]][ci-url]
