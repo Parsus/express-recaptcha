@@ -114,7 +114,7 @@ export class RecaptchaV2 {
     })
 
     // 20200608RBP - Add handling for request errors
-    request.on('error', (e) => { cb(e, null); });
+    request.on('error', (e) => { cb(e.message, null); });
 
     request.write(query_string)
     request.end()
